@@ -1,4 +1,4 @@
-# Deploy-Configure-AzureFirewall
+# Deploy Configure Azure Firewall
 
 <img src="https://github.com/0xbythesecond/Azure-Firewall-/blob/main/Azure%20Firewall%20Lab%20Image%20Project.png?raw=true" height="100%" width="100%" alt="Azure Firewall Project Image"/>
 
